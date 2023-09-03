@@ -30,7 +30,12 @@ Svm model fitted on data with different inputs
 `Conclusion Macroanalysis.ipynb`: Macroanalysis to compare across svm, random forests and XGBoost.
 
 ## 4. Project Flow
+![Presentation1](https://github.com/charlenechanmy/Reddit-Sarcasm/assets/86695082/258226ed-04cf-41fa-9af2-5a0855c2d5c9)
+
 
 ## 5. Useful Links
 Project slides: [Sarcasm slides.pdf](https://github.com/charlenechanmy/Reddit-Sarcasm/files/12505397/Sarcasm.slides.pdf)
+
+## 6. What's next?
+I'm hoping to deploy this machine learning sarcasm detection model and making it accessible for Github users! stay tuned :)
 
