@@ -32,3 +32,5 @@ Svm model fitted on data with different inputs
 ## 4. Project Flow
 
 ## 5. Useful Links
+Project slides: [Sarcasm slides.pdf](https://github.com/charlenechanmy/Reddit-Sarcasm/files/12505397/Sarcasm.slides.pdf)
+
